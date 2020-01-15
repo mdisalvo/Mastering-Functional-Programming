@@ -1,0 +1,12 @@
+Declarative Programming Style
+
+* Imperative:
+    - Rely on a set of primitives provided by language, combining them to achieve desired functionality
+    - You _usually_ don't create new primitives
+* Declarative:
+    - Also relies on primitives, yet those are much closer to your domain. 
+
+* Declarative programming specifies what needs to be done without specifying how to do it. The language abstracts away the details of the pattern and allows you to refer to it by a name.  DRY
+
+* As a result, imperative statements such as go-to are bad practice as usage encourages repeating yourself, introducing the potential for errors.
+
